@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathan&#39;s Blog </title>
+    <link>https://nndd91.github.io/hugoblog/post/</link>
+    <language>en-us</language>
+    <author>Nathan</author>
+    <rights>(C) 2017</rights>
+    <updated>2017-05-13 17:00:38 &#43;0800 SGT</updated>
+
+    
+      
+        <item>
+          <title>first post</title>
+          <link>https://nndd91.github.io/hugoblog/post/first-post/</link>
+          <pubDate>Sat, 13 May 2017 17:00:38 SGT</pubDate>
+          <author>Nathan</author>
+          <guid>https://nndd91.github.io/hugoblog/post/first-post/</guid>
+          <description>&lt;p&gt;This is the first post for this hugo blog. I find the concept very smart and interesting. Even though it was supposed to be a technique that was used since the 1990s. I guess I am probaby just too used to the modern way of doing things.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
